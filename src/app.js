@@ -1,1 +1,1 @@
-module.exports = {message: "Hello World"}
+module.exports = {message: "It/s Alive!"}
